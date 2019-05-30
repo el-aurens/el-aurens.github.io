@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/post/blog/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/post/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/post/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/post/blog/tutorials/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/post/blog/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/post/blog/tutorials/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/post/hackernews/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/post/hackernews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/post/hackernews/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/page/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/page/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/page/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/post/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://el-aurens.github.io/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://el-aurens.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://el-aurens.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

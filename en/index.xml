@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Aurens&#39;s Blog</title>
+    <link>https://el-aurens.github.io/en/</link>
+    <description>Recent content on El Aurens&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>te.elaurens@gmail.com (El Aurens)</managingEditor>
+    <webMaster>te.elaurens@gmail.com (El Aurens)</webMaster>
+    
+	<atom:link href="https://el-aurens.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://el-aurens.github.io/en/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>te.elaurens@gmail.com (El Aurens)</author>
+      <guid>https://el-aurens.github.io/en/page/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
